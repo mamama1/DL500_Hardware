@@ -1,0 +1,10 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"MF";"MPN";"OC_FARNELL";"OC_MOUSER";"OC_NEWARK";"OC_RS";"SCREW";"VALUE";
+"1";"";"EC12E-SW";"EC12E-SW";"SW1";"ALPS ENCODER EC12-E with switch";"";"";"";"652-PEC11R-4225F-S24";"";"";"";"";
+"1";"";"MA10-2";"MA10-2";"MAINBOARD";"PIN HEADER";"";"";"unknown";"200-TSW10707FD";"unknown";"832-3516";"";"";
+"1";"100n/16V";"CC/0805";"0805";"C2";"Kondensator";"";"";"";"810-C2012X7R2A104K";"";"";"";"";
+"1";"100µ/50V";"C+3.5/8";"C+/3.5/8";"C1";"";"";"";"";"667-EEU-FR1H101";"";"";"";"";
+"1";"10K";"TRIMPOT";"ADJR3-7.0X7.0X5.0MM";"R4";"301040009";"";"SX3362P";"";"652-3362P-1-103LF";"";"";"";"10K";
+"2";"10k";"R-SMD0805";"C0805K";"R2, R5";"R";"";"";"";"652-CR0805-JW-103ELF";"";"";"";"";
+"1";"330R 5% 1/10W";"R-SMD0805";"C0805K";"R1";"R";"";"";"";"652-CR0805FX-3300ELF";"";"";"";"";
+"1";"LCD";"LCD";"DISPLAYTECH-204C";"LCD1";"";"";"";"";"992-LCD-20X4Y";"";"";"";"";
+"6";"MOUNT-PAD-ROUND3.3";"MOUNT-PAD-ROUND3.3";"3,3-PAD";"H1, H2, H3, H4, H5, H6";"MOUNTING PAD, round";"";"";"";"";"";"";"M3x5";"";
