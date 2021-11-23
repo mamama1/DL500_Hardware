@@ -1,0 +1,15 @@
+esp8266 möglichkeit implementieren oder komplettumstieg auf esp
+widerstand bei T1 Gate
+i2c pullups
+kompensationsvorschläge aus eevblog forum testen
+pulldown von mosfet gate?
+schwacher pulldown von eingang?
+heatsink clips nachbestellen 2x
+
+
+Filter R4, INA219 see datasheet for reference
+RC Filter R4 100R/100n
+
+
+ESP8266 mit Software Serial für Kommunikation mit 32U4 und Hardware Serial für Debug und  für Flashing
+32U4 mit USB UART für Flashing und Debugging und zweitem UART für Kommunikation mit ESP8266
